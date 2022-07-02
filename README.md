@@ -1,1 +1,1 @@
-# Discord.js-BAN-Commands
+### Discord.js-BAN-Commands
